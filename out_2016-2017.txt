@@ -1,0 +1,132 @@
+Arnaud Lagast:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arnaud Lagast 2016 - 2017">
+
+
+Arne Van Canneyt:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arne Van Canneyt 2016 - 2017">
+
+
+Bert Jonckheere:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Bert Jonckheere 2016 - 2017">
+
+
+Joppe Burki:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Joppe_Burki_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Joppe_Burki_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Joppe_Burki_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Joppe_Burki_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Joppe Burki 2016 - 2017">
+
+
+Joram Vanden Bulcke:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Joram Vanden Bulcke 2016 - 2017">
+
+
+Lander Lagrou:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lander Lagrou 2016 - 2017">
+
+
+Lemmy Paelinck:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lemmy Paelinck 2016 - 2017">
+
+
+Thomas Zwaenepoel:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Thomas Zwaenepoel 2016 - 2017">
+
+
+Vincent Vandewoude:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Vincent Vandewoude 2016 - 2017">
+
+
+Wouter Vandamme:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Wouter Vandamme 2016 - 2017">
+
+
+Firstname Lastname:
+							<img class="profile_pic"
+								src="res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_720.jpg"
+								srcset="res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_1152.jpg 1152w,
+										res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_1080.jpg 1080w,
+										res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Firstname Lastname 2016 - 2017">
+
+

@@ -1,0 +1,192 @@
+Arnaud Lagast:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arnaud Lagast 2017 - 2018">
+
+
+Arne Van Canneyt:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arne Van Canneyt 2017 - 2018">
+
+
+Arthur Van Cauwenberge:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arthur Van Cauwenberge 2017 - 2018">
+
+
+Bert Jonckheere:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Bert Jonckheere 2017 - 2018">
+
+
+Garben Tanghe:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Garben Tanghe 2017 - 2018">
+
+
+Joppe Burki:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Joppe_Burki_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Joppe_Burki_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Joppe_Burki_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Joppe_Burki_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Joppe Burki 2017 - 2018">
+
+
+Joram Vanden Bulcke:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Joram Vanden Bulcke 2017 - 2018">
+
+
+Jules Deltombe:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Jules Deltombe 2017 - 2018">
+
+
+Kinzo Verstraete:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Kinzo Verstraete 2017 - 2018">
+
+
+Lander Lagrou:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lander Lagrou 2017 - 2018">
+
+
+Lemmy Paelinck:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lemmy Paelinck 2017 - 2018">
+
+
+Thomas Zwaenepoel:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Thomas Zwaenepoel 2017 - 2018">
+
+
+Tibo Dequeecker:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Tibo Dequeecker 2017 - 2018">
+
+
+Vincent Vandewoude:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Vincent Vandewoude 2017 - 2018">
+
+
+Wouter Vandamme:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Wouter Vandamme 2017 - 2018">
+
+
+Firstname Lastname:
+							<img class="profile_pic"
+								src="res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_720.jpg"
+								srcset="res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_1152.jpg 1152w,
+										res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_1080.jpg 1080w,
+										res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Firstname Lastname 2017 - 2018">
+
+

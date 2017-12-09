@@ -1,0 +1,240 @@
+Alex Lagast:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Alex_Lagast_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Alex_Lagast_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Alex_Lagast_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Alex_Lagast_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Alex Lagast 2018 - 2019">
+
+
+Arnaud Lagast:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Arnaud_Lagast_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Arnaud_Lagast_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Arnaud_Lagast_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Arnaud_Lagast_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arnaud Lagast 2018 - 2019">
+
+
+Arne Van Canneyt:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Arne_Van_Canneyt_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Arne_Van_Canneyt_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Arne_Van_Canneyt_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Arne_Van_Canneyt_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arne Van Canneyt 2018 - 2019">
+
+
+Arthur Van Cauwenberge:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Arthur_Van_Cauwenberge_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Arthur_Van_Cauwenberge_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Arthur_Van_Cauwenberge_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Arthur_Van_Cauwenberge_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Arthur Van Cauwenberge 2018 - 2019">
+
+
+Bert Jonckheere:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Bert_Jonckheere_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Bert_Jonckheere_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Bert_Jonckheere_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Bert_Jonckheere_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Bert Jonckheere 2018 - 2019">
+
+
+Garben Tanghe:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Garben_Tanghe_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Garben_Tanghe_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Garben_Tanghe_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Garben_Tanghe_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Garben Tanghe 2018 - 2019">
+
+
+Gauthier Vanooteghem:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Gauthier_Vanooteghem_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Gauthier_Vanooteghem_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Gauthier_Vanooteghem_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Gauthier_Vanooteghem_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Gauthier Vanooteghem 2018 - 2019">
+
+
+Joppe Burki:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Joppe_Burki_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Joppe_Burki_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Joppe_Burki_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Joppe_Burki_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Joppe Burki 2018 - 2019">
+
+
+Joram Vanden Bulcke:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Joram_Vanden_Bulcke_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Joram_Vanden_Bulcke_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Joram_Vanden_Bulcke_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Joram_Vanden_Bulcke_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Joram Vanden Bulcke 2018 - 2019">
+
+
+Jules Deltombe:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Jules_Deltombe_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Jules_Deltombe_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Jules_Deltombe_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Jules_Deltombe_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Jules Deltombe 2018 - 2019">
+
+
+Kinzo Verstraete:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Kinzo_Verstraete_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Kinzo_Verstraete_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Kinzo_Verstraete_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Kinzo_Verstraete_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Kinzo Verstraete 2018 - 2019">
+
+
+Lander Lagrou:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Lander_Lagrou_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Lander_Lagrou_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Lander_Lagrou_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Lander_Lagrou_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lander Lagrou 2018 - 2019">
+
+
+Lemmy Paelinck:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Lemmy_Paelinck_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Lemmy_Paelinck_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Lemmy_Paelinck_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Lemmy_Paelinck_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lemmy Paelinck 2018 - 2019">
+
+
+Lukas Decorte:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Lukas_Decorte_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Lukas_Decorte_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Lukas_Decorte_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Lukas_Decorte_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Lukas Decorte 2018 - 2019">
+
+
+Quentin Coulier:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Quentin_Coulier_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Quentin_Coulier_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Quentin_Coulier_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Quentin_Coulier_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Quentin Coulier 2018 - 2019">
+
+
+Thomas Zwaenepoel:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Thomas_Zwaenepoel_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Thomas_Zwaenepoel_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Thomas_Zwaenepoel_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Thomas_Zwaenepoel_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Thomas Zwaenepoel 2018 - 2019">
+
+
+Tibo Dequeecker:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Tibo_Dequeecker_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Tibo_Dequeecker_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Tibo_Dequeecker_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Tibo_Dequeecker_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Tibo Dequeecker 2018 - 2019">
+
+
+Vincent Vandewoude:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Vincent_Vandewoude_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Vincent_Vandewoude_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Vincent_Vandewoude_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Vincent_Vandewoude_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Vincent Vandewoude 2018 - 2019">
+
+
+Wouter Vandamme:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Wouter_Vandamme_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Wouter_Vandamme_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Wouter_Vandamme_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Wouter_Vandamme_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Wouter Vandamme 2018 - 2019">
+
+
+Firstname Lastname:
+							<img class="profile_pic"
+								src="res/profile_pic/2018-2019/Firstname_Lastname_2018-2019_720.jpg"
+								srcset="res/profile_pic/2018-2019/Firstname_Lastname_2018-2019_1152.jpg 1152w,
+										res/profile_pic/2018-2019/Firstname_Lastname_2018-2019_1080.jpg 1080w,
+										res/profile_pic/2018-2019/Firstname_Lastname_2018-2019_720.jpg 720w"
+								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
+										(min-width: 900px) calc(.33*864px - 2*8),
+										calc(.50*752px - 2*8px)"
+								alt="Profielfoto van Firstname Lastname 2018 - 2019">
+
+
