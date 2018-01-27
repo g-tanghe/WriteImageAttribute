@@ -1,39 +1,58 @@
 import sys
 
-"""
-Goal:
-<img	class="profile_pic"
-src="res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_720.jpg"
-srcset="res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_1152.jpg 1152w,
-res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_1080.jpg 1080w,
-res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_720.jpg 720w"
-sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-(min-width: 900px) calc(.33*864px - 2*8),
-calc(.50*752px - 2*8px)"
-alt="Profielfoto van Arnaud Lagast 2017-2018">
-"""
+# Goal:
+#
+# Garben Tanghe:
+#   <div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+#       <div class="profile_pic_container">
+#           <img class="profile_pic"
+#                src="<?php echo $path; ?>res/profile_pic/2017-2018/Garben_Tanghe.jpg"
+#                alt="Moeder Peerdevisscher Profielfoto van Garben Tanghe alias Jones 2017 - 2018">
+#           <div class="profile_pic_caption">
+#               <p class="centered">PR<br><strong>Garben Tanghe</strong><br>alias Jones</p>
+#           </div>
+#       </div>
+#   </div>
 
-# Todo: adjust year
-year1 = 2018
-year2 = 2019
-
-try:
-    file_in = open('in_{}-{}.txt'.format(year1, year2), 'r')
-except:
-    sys.exit("file_in didn't open correctly!")
+yearXXXX = int(input(
+    "Please type the first year of the club year.\nThis means the XXXX in the club year noted as XXXX - YYYY.\nXXXX: "))
+yearYYYY = yearXXXX + 1
 
 try:
-    file_out = open('out_{}-{}.txt'.format(year1, year2), 'w')
+    file_in = open('in_{}-{}.txt'.format(yearXXXX, yearYYYY), 'r')
 except:
-    sys.exit("file_out didn't open correctly!")
+    sys.exit('file_in didn\'t open correctly!')
 
-firstname = file_in.readline().strip('\n')
-lastname = file_in.readline().strip('\n')
+try:
+    file_out = open('out_{}-{}.txt'.format(yearXXXX, yearYYYY), 'w')
+except:
+    sys.exit('file_out didn\'t open correctly!')
+
+firstname = 'Firstname'
+lastname = 'Lastname'
+function = 'Commilito'
 while firstname and lastname:
+    print('{0} {1} {2}'.format(firstname, lastname, function))
     lastname_format = lastname.replace(" ", "_")
-    file_out.write('{2} {3}:\n\t\t\t\t\t\t\t<img class=\"profile_pic\"\n\t\t\t\t\t\t\t\tsrc=\"res/profile_pic/{0}-{1}/{2}_{4}_{0}-{1}_720.jpg\"\n\t\t\t\t\t\t\t\tsrcset=\"res/profile_pic/{0}-{1}/{2}_{4}_{0}-{1}_1152.jpg 1152w,\n\t\t\t\t\t\t\t\t\t\tres/profile_pic/{0}-{1}/{2}_{4}_{0}-{1}_1080.jpg 1080w,\n\t\t\t\t\t\t\t\t\t\tres/profile_pic/{0}-{1}/{2}_{4}_{0}-{1}_720.jpg 720w\"\n\t\t\t\t\t\t\t\tsizes=\"\t(min-width: 1280px) calc(.25*1216px - 2*8px),\n\t\t\t\t\t\t\t\t\t\t(min-width: 900px) calc(.33*864px - 2*8),\n\t\t\t\t\t\t\t\t\t\tcalc(.50*752px - 2*8px)\"\n\t\t\t\t\t\t\t\talt=\"Profielfoto van {2} {3} {0} - {1}\">\n\n\n'.format(year1, year2, firstname, lastname, lastname_format))
+    file_out.write(
+        '{2} {3}:\n'
+        '<div class=\"grid-xs grid-sm-2 grid-md-3 grid-l-4\">\n'
+        '\t<div class=\"profile_pic_container\">\n'
+        '\t\t<img class=\"profile_pic\"\n'
+        '\t\t\t src=\"res/profile_pic/{0}-{1}/{2}_{4}.jpg\"\n'
+        '\t\t\t alt=\"Moeder Peerdevisscher Profielfoto van {2} {3} {5} {0} - {1}\">\n'
+        '\t\t<div class=\"profile_pic_caption\">\n'
+        '\t\t\t<p class=\"centered\">{6}<br><strong>{2} {3}</strong></p>\n'
+        '\t\t</div>\n'
+        '\t</div>\n'
+        '</div>\n\n'.format(yearXXXX, yearYYYY, firstname, lastname, lastname_format, function, function.upper()))
     firstname = file_in.readline().strip('\n')
     lastname = file_in.readline().strip('\n')
+    function = file_in.readline().strip('\n')
+    alias = file_in.readline().strip('\n')
+    file_in.readline()
 
 file_in.close()
 file_out.close()
+
+sys.exit(0)

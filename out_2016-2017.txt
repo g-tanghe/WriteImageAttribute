@@ -1,132 +1,132 @@
-Arnaud Lagast:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Arnaud_Lagast_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Arnaud Lagast 2016 - 2017">
+Firstname Lastname:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Firstname_Lastname.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Firstname Lastname Commilito 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Firstname Lastname</strong></p>
+		</div>
+	</div>
+</div>
 
+Arnaud Lagast:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Arnaud_Lagast.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arnaud Lagast Cantor & Schachtentemmer 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">CANTOR & SCHACHTENTEMMER<br><strong>Arnaud Lagast</strong></p>
+		</div>
+	</div>
+</div>
 
 Arne Van Canneyt:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Arne_Van_Canneyt_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Arne Van Canneyt 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Arne_Van_Canneyt.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arne Van Canneyt Cantor 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">CANTOR<br><strong>Arne Van Canneyt</strong></p>
+		</div>
+	</div>
+</div>
 
 Bert Jonckheere:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Bert_Jonckheere_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Bert Jonckheere 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Bert_Jonckheere.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Bert Jonckheere Vicepraeses 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">VICEPRAESES<br><strong>Bert Jonckheere</strong></p>
+		</div>
+	</div>
+</div>
 
 Joppe Burki:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Joppe_Burki_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Joppe_Burki_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Joppe_Burki_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Joppe_Burki_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Joppe Burki 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Joppe_Burki.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Joppe Burki Secretaris 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">SECRETARIS<br><strong>Joppe Burki</strong></p>
+		</div>
+	</div>
+</div>
 
 Joram Vanden Bulcke:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Joram_Vanden_Bulcke_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Joram Vanden Bulcke 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Joram_Vanden_Bulcke.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Joram Vanden Bulcke Feestpraeses & PR 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">FEESTPRAESES & PR<br><strong>Joram Vanden Bulcke</strong></p>
+		</div>
+	</div>
+</div>
 
 Lander Lagrou:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Lander_Lagrou_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Lander Lagrou 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Lander_Lagrou.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lander Lagrou Sportpraeses & PR 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">SPORTPRAESES & PR<br><strong>Lander Lagrou</strong></p>
+		</div>
+	</div>
+</div>
 
 Lemmy Paelinck:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Lemmy_Paelinck_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Lemmy Paelinck 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Lemmy_Paelinck.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lemmy Paelinck Zedenmeester 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">ZEDENMEESTER<br><strong>Lemmy Paelinck</strong></p>
+		</div>
+	</div>
+</div>
 
 Thomas Zwaenepoel:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Thomas_Zwaenepoel_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Thomas Zwaenepoel 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Thomas_Zwaenepoel.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Thomas Zwaenepoel Praeses 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">PRAESES<br><strong>Thomas Zwaenepoel</strong></p>
+		</div>
+	</div>
+</div>
 
 Vincent Vandewoude:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Vincent_Vandewoude_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Vincent Vandewoude 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Vincent_Vandewoude.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Vincent Vandewoude Sportpraeses 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">SPORTPRAESES<br><strong>Vincent Vandewoude</strong></p>
+		</div>
+	</div>
+</div>
 
 Wouter Vandamme:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Wouter_Vandamme_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Wouter Vandamme 2016 - 2017">
-
-
-Firstname Lastname:
-							<img class="profile_pic"
-								src="res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_720.jpg"
-								srcset="res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_1152.jpg 1152w,
-										res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_1080.jpg 1080w,
-										res/profile_pic/2016-2017/Firstname_Lastname_2016-2017_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Firstname Lastname 2016 - 2017">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2016-2017/Wouter_Vandamme.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Wouter Vandamme Quaestor 2016 - 2017">
+		<div class="profile_pic_caption">
+			<p class="centered">QUAESTOR<br><strong>Wouter Vandamme</strong></p>
+		</div>
+	</div>
+</div>
 

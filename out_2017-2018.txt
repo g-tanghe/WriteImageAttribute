@@ -1,192 +1,192 @@
-Arnaud Lagast:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Arnaud_Lagast_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Arnaud Lagast 2017 - 2018">
+Firstname Lastname:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Firstname_Lastname.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Firstname Lastname Commilito 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Firstname Lastname</strong></p>
+		</div>
+	</div>
+</div>
 
+Arnaud Lagast:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Arnaud_Lagast.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arnaud Lagast Zedenmeester 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">ZEDENMEESTER<br><strong>Arnaud Lagast</strong></p>
+		</div>
+	</div>
+</div>
 
 Arne Van Canneyt:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Arne_Van_Canneyt_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Arne Van Canneyt 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Arne_Van_Canneyt.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arne Van Canneyt Commilito 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Arne Van Canneyt</strong></p>
+		</div>
+	</div>
+</div>
 
 Arthur Van Cauwenberge:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Arthur_Van_Cauwenberge_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Arthur Van Cauwenberge 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Arthur_Van_Cauwenberge.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arthur Van Cauwenberge Commilito 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Arthur Van Cauwenberge</strong></p>
+		</div>
+	</div>
+</div>
 
 Bert Jonckheere:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Bert_Jonckheere_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Bert Jonckheere 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Bert_Jonckheere.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Bert Jonckheere Praeses 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">PRAESES<br><strong>Bert Jonckheere</strong></p>
+		</div>
+	</div>
+</div>
 
 Garben Tanghe:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Garben_Tanghe_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Garben Tanghe 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Garben_Tanghe.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Garben Tanghe PR 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">PR<br><strong>Garben Tanghe</strong></p>
+		</div>
+	</div>
+</div>
 
 Joppe Burki:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Joppe_Burki_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Joppe_Burki_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Joppe_Burki_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Joppe_Burki_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Joppe Burki 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Joppe_Burki.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Joppe Burki Commilito 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Joppe Burki</strong></p>
+		</div>
+	</div>
+</div>
 
 Joram Vanden Bulcke:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Joram_Vanden_Bulcke_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Joram Vanden Bulcke 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Joram_Vanden_Bulcke.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Joram Vanden Bulcke Feestpraeses 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">FEESTPRAESES<br><strong>Joram Vanden Bulcke</strong></p>
+		</div>
+	</div>
+</div>
 
 Jules Deltombe:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Jules_Deltombe_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Jules Deltombe 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Jules_Deltombe.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Jules Deltombe Commilito 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Jules Deltombe</strong></p>
+		</div>
+	</div>
+</div>
 
 Kinzo Verstraete:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Kinzo_Verstraete_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Kinzo Verstraete 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Kinzo_Verstraete.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Kinzo Verstraete Commilito 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Kinzo Verstraete</strong></p>
+		</div>
+	</div>
+</div>
 
 Lander Lagrou:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Lander_Lagrou_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Lander Lagrou 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Lander_Lagrou.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lander Lagrou Cantor 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">CANTOR<br><strong>Lander Lagrou</strong></p>
+		</div>
+	</div>
+</div>
 
 Lemmy Paelinck:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Lemmy_Paelinck_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Lemmy Paelinck 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Lemmy_Paelinck.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lemmy Paelinck Secretaris 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">SECRETARIS<br><strong>Lemmy Paelinck</strong></p>
+		</div>
+	</div>
+</div>
 
 Thomas Zwaenepoel:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Thomas_Zwaenepoel_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Thomas Zwaenepoel 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Thomas_Zwaenepoel.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Thomas Zwaenepoel Vicepraeses 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">VICEPRAESES<br><strong>Thomas Zwaenepoel</strong></p>
+		</div>
+	</div>
+</div>
 
 Tibo Dequeecker:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Tibo_Dequeecker_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Tibo Dequeecker 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Tibo_Dequeecker.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Tibo Dequeecker Schachtentemmer 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">SCHACHTENTEMMER<br><strong>Tibo Dequeecker</strong></p>
+		</div>
+	</div>
+</div>
 
 Vincent Vandewoude:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Vincent_Vandewoude_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Vincent Vandewoude 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Vincent_Vandewoude.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Vincent Vandewoude Sport 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">SPORT<br><strong>Vincent Vandewoude</strong></p>
+		</div>
+	</div>
+</div>
 
 Wouter Vandamme:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Wouter_Vandamme_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Wouter Vandamme 2017 - 2018">
-
-
-Firstname Lastname:
-							<img class="profile_pic"
-								src="res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_720.jpg"
-								srcset="res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_1152.jpg 1152w,
-										res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_1080.jpg 1080w,
-										res/profile_pic/2017-2018/Firstname_Lastname_2017-2018_720.jpg 720w"
-								sizes="	(min-width: 1280px) calc(.25*1216px - 2*8px),
-										(min-width: 900px) calc(.33*864px - 2*8),
-										calc(.50*752px - 2*8px)"
-								alt="Profielfoto van Firstname Lastname 2017 - 2018">
-
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="res/profile_pic/2017-2018/Wouter_Vandamme.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Wouter Vandamme Quaestor 2017 - 2018">
+		<div class="profile_pic_caption">
+			<p class="centered">QUAESTOR<br><strong>Wouter Vandamme</strong></p>
+		</div>
+	</div>
+</div>
 
