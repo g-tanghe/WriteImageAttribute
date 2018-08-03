@@ -5,22 +5,22 @@ Bananne
 
 Arthur
 Van Cauwenberge
-Commilito
+Cantor
 Skarre
 
 Bert
 Jonckheere
-Vicepraeses
+Commilito
 
 
 Garben
 Tanghe
-PR
+Secretaris
 Jones
 
 Gauthier
 Vanooteghem
-Commilito
+Sportpraeses
 Besje
 
 Joram
@@ -30,12 +30,12 @@ Feestpraeses
 
 Jules
 Deltombe
-Commilito
+Zedenmeester
 T-Bag
 
 Lander
 Lagrou
-Cantor
+Commilito
 
 
 Lemmy
@@ -45,13 +45,8 @@ Commilito
 
 Lukas
 Decorte
-Secretaris
+Quaestor
 Jos
-
-Quentin
-Coulier
-Commilito
-Clemo
 
 Thomas
 Zwaenepoel
@@ -65,10 +60,9 @@ Tank
 
 Vincent
 Vandewoude
-Sportpraeses
+PR
 
 
 Wouter
 Vandamme
-Quaestor
-
+Vicepraeses

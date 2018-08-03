@@ -1,0 +1,180 @@
+Firstname Lastname:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Firstname_Lastname.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Firstname Lastname Commilito 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Firstname Lastname</strong></p>
+		</div>
+	</div>
+</div>
+
+Alex Lagast:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Alex_Lagast.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Alex Lagast Schachtentemmer 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">SCHACHTENTEMMER<br><strong>Alex Lagast</strong></p>
+		</div>
+	</div>
+</div>
+
+Arthur Van Cauwenberge:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Arthur_Van_Cauwenberge.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arthur Van Cauwenberge Cantor 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">CANTOR<br><strong>Arthur Van Cauwenberge</strong></p>
+		</div>
+	</div>
+</div>
+
+Bert Jonckheere:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Bert_Jonckheere.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Bert Jonckheere Commilito 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Bert Jonckheere</strong></p>
+		</div>
+	</div>
+</div>
+
+Garben Tanghe:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Garben_Tanghe.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Garben Tanghe Secretaris 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">SECRETARIS<br><strong>Garben Tanghe</strong></p>
+		</div>
+	</div>
+</div>
+
+Gauthier Vanooteghem:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Gauthier_Vanooteghem.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Gauthier Vanooteghem Sportpraeses 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">SPORTPRAESES<br><strong>Gauthier Vanooteghem</strong></p>
+		</div>
+	</div>
+</div>
+
+Joram Vanden Bulcke:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Joram_Vanden_Bulcke.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Joram Vanden Bulcke Feestpraeses 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">FEESTPRAESES<br><strong>Joram Vanden Bulcke</strong></p>
+		</div>
+	</div>
+</div>
+
+Jules Deltombe:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Jules_Deltombe.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Jules Deltombe Zedenmeester 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">ZEDENMEESTER<br><strong>Jules Deltombe</strong></p>
+		</div>
+	</div>
+</div>
+
+Lander Lagrou:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Lander_Lagrou.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lander Lagrou Commilito 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Lander Lagrou</strong></p>
+		</div>
+	</div>
+</div>
+
+Lemmy Paelinck:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Lemmy_Paelinck.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lemmy Paelinck Commilito 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Lemmy Paelinck</strong></p>
+		</div>
+	</div>
+</div>
+
+Lukas Decorte:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Lukas_Decorte.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lukas Decorte Quaestor 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">QUAESTOR<br><strong>Lukas Decorte</strong></p>
+		</div>
+	</div>
+</div>
+
+Thomas Zwaenepoel:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Thomas_Zwaenepoel.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Thomas Zwaenepoel Commilito 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Thomas Zwaenepoel</strong></p>
+		</div>
+	</div>
+</div>
+
+Tibo Dequeecker:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Tibo_Dequeecker.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Tibo Dequeecker Praeses 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">PRAESES<br><strong>Tibo Dequeecker</strong></p>
+		</div>
+	</div>
+</div>
+
+Vincent Vandewoude:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Vincent_Vandewoude.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Vincent Vandewoude PR 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">PR<br><strong>Vincent Vandewoude</strong></p>
+		</div>
+	</div>
+</div>
+
+Wouter Vandamme:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2018-2019/Wouter_Vandamme.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Wouter Vandamme Vicepraeses 2018 - 2019">
+		<div class="profile_pic_caption">
+			<p class="centered">VICEPRAESES<br><strong>Wouter Vandamme</strong></p>
+		</div>
+	</div>
+</div>
+

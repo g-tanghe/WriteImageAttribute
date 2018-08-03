@@ -2,17 +2,17 @@ import sys
 
 # Goal:
 #
-# Garben Tanghe:
+#   Garben Tanghe:
 #   <div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
-#       <div class="profile_pic_container">
+#        <div class="profile_pic_container">
 #           <img class="profile_pic"
-#                src="<?php echo $path; ?>res/profile_pic/2017-2018/Garben_Tanghe.jpg"
-#                alt="Moeder Peerdevisscher Profielfoto van Garben Tanghe alias Jones 2017 - 2018">
-#           <div class="profile_pic_caption">
+#               src="<?php echo $path; ?>res/profilepic/2017-2018/Garben_Tanghe.jpg"
+#                alt="Moeder Peerdevisscher Profielfoto van Garben Tanghe alias Jones PR 2017 - 2018">
+#               <div class="profile_pic_caption">
 #               <p class="centered">PR<br><strong>Garben Tanghe</strong><br>alias Jones</p>
-#           </div>
-#       </div>
-#   </div>
+#            </div>
+#        </div>
+#    </div>
 
 yearXXXX = int(input(
     "Please type the first year of the club year.\nThis means the XXXX in the club year noted as XXXX - YYYY.\nXXXX: "))
@@ -39,7 +39,7 @@ while firstname and lastname:
         '<div class=\"grid-xs grid-sm-2 grid-md-3 grid-l-4\">\n'
         '\t<div class=\"profile_pic_container\">\n'
         '\t\t<img class=\"profile_pic\"\n'
-        '\t\t\t src=\"res/profile_pic/{0}-{1}/{2}_{4}.jpg\"\n'
+        '\t\t\t src=\"<?php echo $path; ?>res/profilepic/{0}-{1}/{2}_{4}.jpg\"\n'
         '\t\t\t alt=\"Moeder Peerdevisscher Profielfoto van {2} {3} {5} {0} - {1}\">\n'
         '\t\t<div class=\"profile_pic_caption\">\n'
         '\t\t\t<p class=\"centered\">{6}<br><strong>{2} {3}</strong></p>\n'
