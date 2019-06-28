@@ -1,0 +1,252 @@
+Firstname Lastname:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Firstname_Lastname.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Firstname Lastname Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Firstname Lastname</strong></p>
+		</div>
+	</div>
+</div>
+
+Alex Lagast:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Alex_Lagast.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Alex Lagast Zedenmeester 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">ZEDENMEESTER<br><strong>Alex Lagast</strong></p>
+		</div>
+	</div>
+</div>
+
+Arthur Van Cauwenberge:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Arthur_Van_Cauwenberge.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Arthur Van Cauwenberge Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Arthur Van Cauwenberge</strong></p>
+		</div>
+	</div>
+</div>
+
+Aster Demuysere:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Aster_Demuysere.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Aster Demuysere Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Aster Demuysere</strong></p>
+		</div>
+	</div>
+</div>
+
+Axel Cremer:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Axel_Cremer.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Axel Cremer Schachtentemmer 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">SCHACHTENTEMMER<br><strong>Axel Cremer</strong></p>
+		</div>
+	</div>
+</div>
+
+Axel Impens:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Axel_Impens.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Axel Impens Secretaris 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">SECRETARIS<br><strong>Axel Impens</strong></p>
+		</div>
+	</div>
+</div>
+
+Bert Jonckheere:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Bert_Jonckheere.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Bert Jonckheere Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Bert Jonckheere</strong></p>
+		</div>
+	</div>
+</div>
+
+Flavio Dedecker:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Flavio_Dedecker.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Flavio Dedecker Cantor 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">CANTOR<br><strong>Flavio Dedecker</strong></p>
+		</div>
+	</div>
+</div>
+
+Garben Tanghe:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Garben_Tanghe.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Garben Tanghe Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Garben Tanghe</strong></p>
+		</div>
+	</div>
+</div>
+
+Gauthier Vanooteghem:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Gauthier_Vanooteghem.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Gauthier Vanooteghem Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Gauthier Vanooteghem</strong></p>
+		</div>
+	</div>
+</div>
+
+Joram Vanden Bulcke:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Joram_Vanden_Bulcke.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Joram Vanden Bulcke Praeses 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">PRAESES<br><strong>Joram Vanden Bulcke</strong></p>
+		</div>
+	</div>
+</div>
+
+Jules Deltombe:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Jules_Deltombe.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Jules Deltombe Vicepraeses 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">VICEPRAESES<br><strong>Jules Deltombe</strong></p>
+		</div>
+	</div>
+</div>
+
+Lander Lagrou:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Lander_Lagrou.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lander Lagrou Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Lander Lagrou</strong></p>
+		</div>
+	</div>
+</div>
+
+Lemmy Paelinck:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Lemmy_Paelinck.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lemmy Paelinck Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Lemmy Paelinck</strong></p>
+		</div>
+	</div>
+</div>
+
+Lukas Decorte:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Lukas_Decorte.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Lukas Decorte Quaestor 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">QUAESTOR<br><strong>Lukas Decorte</strong></p>
+		</div>
+	</div>
+</div>
+
+Sam De Ridder:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Sam_De_Ridder.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Sam De Ridder Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Sam De Ridder</strong></p>
+		</div>
+	</div>
+</div>
+
+Thomas Zwaenepoel:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Thomas_Zwaenepoel.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Thomas Zwaenepoel Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Thomas Zwaenepoel</strong></p>
+		</div>
+	</div>
+</div>
+
+Tibo Dequeecker:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Tibo_Dequeecker.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Tibo Dequeecker Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Tibo Dequeecker</strong></p>
+		</div>
+	</div>
+</div>
+
+Vincent Vandewoude:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Vincent_Vandewoude.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Vincent Vandewoude Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Vincent Vandewoude</strong></p>
+		</div>
+	</div>
+</div>
+
+Wouter Vandamme:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Wouter_Vandamme.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Wouter Vandamme Commilito 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">COMMILITO<br><strong>Wouter Vandamme</strong></p>
+		</div>
+	</div>
+</div>
+
+Yassine Zouaoui:
+<div class="grid-xs grid-sm-2 grid-md-3 grid-l-4">
+	<div class="profile_pic_container">
+		<img class="profile_pic"
+			 src="<?php echo $path; ?>res/profilepic/2019-2020/Yassine_Zouaoui.jpg"
+			 alt="Moeder Peerdevisscher Profielfoto van Yassine Zouaoui Feestpraeses 2019 - 2020">
+		<div class="profile_pic_caption">
+			<p class="centered">FEESTPRAESES<br><strong>Yassine Zouaoui</strong></p>
+		</div>
+	</div>
+</div>
+
